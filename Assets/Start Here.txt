@@ -1,0 +1,18 @@
+1-Page Store Set-up CheckList
+
+1. Transfer ownership of store & sign up to $1/month trial.
+2. Save the 'assets' folder and extract contents.
+3. Add Theme --> online store > add theme > upload zip > publish
+4. Add Images --> content > files > upload all images
+5. Add Products > Install DSers App --> Paste links in 'products' file --> import to Shopify
+6. Edit Products: handle,template,variants,price,image,publish tick
+7. Add Reviews > add loox app > import reviews from 'reviews' 
+8. Finish template > add reviews to template, add images, header/footer
+9. View URLS
+10. DONE
+
+
+Next steps:
+
+how to set up a Custom domain
+how to get traffic and make sales...
